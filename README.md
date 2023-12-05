@@ -9,7 +9,7 @@
 4. analysis
 
 ## About Website
-Armenia Tours Website is a static web page built using HTML, CSS, and JavaScript. It includes a responsive design to provide a great user experience on both desktop and mobile devices. The website features a "Read More/Read Less" button to toggle the visibility of detailed descriptions.
+Armenia Tours Website is a static web page built using HTML, CSS, and JavaScript. which deals with travel and tours.
 
 ### Features
 
